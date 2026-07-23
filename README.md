@@ -8,11 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00C9A7&height=200&section=header&text=Babacar%20Ndao&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20LLMs%20%C2%B7%20GenAI&descSize=20&descAlignY=58" width="100%" />
 </p>
 
-<h3 align="center">🧠 Data & AI Engineer — RAG · LLMs · GenAI · Data Engineering</h3>
+<h3 align="center"> Data & AI Engineer — RAG · LLMs · GenAI · Data Engineering</h3>
 
 <p align="center">
   <em>Building reliable, sourced AI systems for African, multilingual contexts.</em><br/>
-  📍 Dakar, Sénégal · 🌍 100% Remote — West Africa
+  📍 Dakar, Sénégal · 🌍 
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ pour réduire les hallucinations — au service des langues et des contextes afr
 
 - **Membre de l'Admin Board** de GalsenAI
 - **Animateur** de la formation **ML-Study Jams** de la communauté
-- **Co-lead Data Collection & SFT Benchmark** du projet **GalsenAI LLM** (modèle wolof open-source)
-- Animation d'ateliers techniques IA — **série « Mastering RAG »** — formation de la communauté
+- **Co-lead Data Collection & Supervised Fine-Tuning Benchmark** du projet **GalsenAI LLM** (modèle wolof open-source)
+- Animation d'ateliers techniques IA — **série « Mastering RAG From Naive To Agentic»** — formation de la communauté
   aux architectures RAG et à l'IA appliquée
 
 ---
