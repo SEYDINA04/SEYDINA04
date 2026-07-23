@@ -17,7 +17,7 @@
       <h1>Babacar Ndao</h1>
       <b>🧠 Data & AI Engineer</b> — RAG · LLMs · GenAI · Data Engineering<br/>
       <em>Building reliable, sourced AI systems for African, multilingual contexts.</em><br/>
-      📍 Dakar, Sénégal · 🌍 100% Remote — West Africa
+      📍 Dakar, Sénégal · 🌍 
     </td>
   </tr>
 </table>
