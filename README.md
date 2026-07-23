@@ -34,7 +34,7 @@ pour réduire les hallucinations — au service des langues et des contextes afr
 
 - 🔭 Focus : **RAG en production**, **LLMOps**, **ASR/Speech multilingue** (Wolof, Twi, Fon)
 - 🛠️ Rigueur software engineering : **API (FastAPI/NestJS), CI/CD, Docker, monitoring**
-- 🌍 CTO/CLO de 3 ventures tech (Afriklang · Dëkkal · MoneyA) — écosystème **MEST Africa**
+- 🌍 2 ventures tech (Afriklang · Dëkkal) — écosystème **MEST Africa**
 - 🗣️ Langues : Français (natif) · Anglais (courant) · Wolof (natif)
 
 ---
