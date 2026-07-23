@@ -15,7 +15,7 @@
     </td>
     <td valign="middle">
       <h1>Babacar Ndao</h1>
-      <b>🧠 Data & AI Engineer</b> — RAG · LLMs · GenAI · Data Engineering<br/>
+      <b> Data & AI Engineer</b> — ML · RAG · LLMs · GenAI · Data Engineering<br/>
       <em>Building reliable, sourced AI systems for African, multilingual contexts.</em><br/>
       📍 Dakar, Sénégal · 🌍 
     </td>
