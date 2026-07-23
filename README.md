@@ -8,12 +8,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00C9A7&height=200&section=header&text=Babacar%20Ndao&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20LLMs%20%C2%B7%20GenAI&descSize=20&descAlignY=58" width="100%" />
 </p>
 
-<h3 align="center"> Data & AI Engineer — RAG · LLMs · GenAI · Data Engineering</h3>
-
-<p align="center">
-  <em>Building reliable, sourced AI systems for African, multilingual contexts.</em><br/>
-  📍 Dakar, Sénégal · 🌍 
-</p>
+<table border="0">
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <img src="https://github.com/SEYDINA04.png" width="150" style="border-radius:50%" alt="Babacar Ndao" />
+    </td>
+    <td valign="middle">
+      <h1>Babacar Ndao</h1>
+      <b>🧠 Data & AI Engineer</b> — RAG · LLMs · GenAI · Data Engineering<br/>
+      <em>Building reliable, sourced AI systems for African, multilingual contexts.</em><br/>
+      📍 Dakar, Sénégal · 🌍 100% Remote — West Africa
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/babacar-ndao"><img src="https://img.shields.io/badge/LinkedIn-Babacar%20Ndao-0A66C2?logo=linkedin&logoColor=white" /></a>
@@ -141,7 +148,7 @@ pour réduire les hallucinations — au service des langues et des contextes afr
 
 ## 🎓 Formation & Distinctions
 
-- **Master 2 Informatique** — Université Assane Seck de Ziguinchor (UASZ)
+- **Master Génie Logiciel — Spécialisé en IA & Big Data** — Université Assane Seck de Ziguinchor (UASZ)
 - **MEST Africa EIT Program** — Top 3% de la promotion 2026
 - **Ambassadeur & Admin Board GalsenAI**
 
